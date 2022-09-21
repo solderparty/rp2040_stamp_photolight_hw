@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "RP2040_Stamp")(type "KiCad")(uri "${KIPRJMOD}/rp2040_stamp_footprints/KiCad/RP2040_Stamp.kicad_sym")(options "")(descr ""))
+  (lib (name "Device_Extra")(type "KiCad")(uri "${KIPRJMOD}/library/Device_Extra.kicad_sym")(options "")(descr ""))
+  (lib (name "power_extra")(type "KiCad")(uri "${KIPRJMOD}/library/power_extra.kicad_sym")(options "")(descr ""))
+  (lib (name "Switch_Extra")(type "KiCad")(uri "${KIPRJMOD}/library/Switch_Extra.kicad_sym")(options "")(descr ""))
+)
